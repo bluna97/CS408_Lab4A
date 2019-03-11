@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab 4A</string>
+    <string name="action_settings">Settings</string>
+    <string name="tipCalcButtonLabel">Tip Calculator</string>
+    <string name="distanceConvButtonLabel">Distance Converter</string>
+    <string name="tempConvButtonLabel">Temperature Converter</string>
+    <string name="fahrenheitLabelText">Fahrenheit</string>
+    <string name="celsiusLabelText">Celsius</string>
+    <string name="convertButtonText">Convert</string>
+    <string name="milesLabelText">Miles</string>
+    <string name="kilometersLabelText">Kilometers</string>
+    <string name="convertDistButtonText">Convert</string>
+    <string name="totalBillLabelText">Total Bill</string>
+    <string name="tipPercentLabelText">Tip Percentage</string>
+    <string name="peopleLabelText">Number of People</string>
+    <string name="calculateTipButtonText">Calculate</string>
+</resources>
